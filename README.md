@@ -10,16 +10,13 @@ Antes de rodar o projeto, certifique-se de ter instalado:
 
 #### # Instalação
 
-- Clone o repositório:
-
+Clone o repositório:
 
     git clone https://github.com/hugocfranciscon/appTesteOutsera.git
 
     cd seu-repositorio
 
-
-
-- Instale as dependências do projeto:
+Instale as dependências do projeto:
 
     npm install
 
