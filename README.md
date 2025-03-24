@@ -14,6 +14,7 @@ Antes de rodar o projeto, certifique-se de ter instalado:
 
 
     git clone https://github.com/hugocfranciscon/appTesteOutsera.git
+
     cd seu-repositorio
 
 
