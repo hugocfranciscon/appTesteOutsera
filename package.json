@@ -1,6 +1,6 @@
 {
   "scripts": {
-    "test": "jest"
+    "test": "jest tests/"
   },
   "dependencies": {
     "better-sqlite3": "^11.9.1",
